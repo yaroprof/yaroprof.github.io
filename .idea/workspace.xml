@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc77fc4c-9196-4af9-8b71-2022ee2aa6a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../01_JavaScript/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_JavaScript/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_JavaScript/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_JavaScript/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_JavaScript/JS-challenge" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_JavaScript/JS-challenge" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_React" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_React" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Less File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1osT5dXGI9c3G14V4GmM1j8hMt8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workplace\01 MyFolder\WorkSpace\03_HTML-codding\portfolio\portfolio_v2\assets\img" />
+      <recent name="C:\Documents\01_WorkSpace\Portfolio\portfolio_v2\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workplace\01 MyFolder\WorkSpace\03_HTML-codding\portfolio\portfolio_v2\assets\img" />
+      <recent name="C:\Documents\01_WorkSpace\Portfolio\portfolio_v2\assets\img" />
+      <recent name="C:\Documents\01_WorkSpace\Portfolio\portfolio_v2\assets" />
+      <recent name="C:\Documents\01_WorkSpace\Portfolio\portfolio_v2\css\blocks\layouts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc77fc4c-9196-4af9-8b71-2022ee2aa6a5" name="Default Changelist" comment="" />
+      <created>1614074115626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614074115626</updated>
+      <workItem from="1614074116863" duration="10726000" />
+      <workItem from="1614157709566" duration="1218000" />
+      <workItem from="1614158982363" duration="15733000" />
+      <workItem from="1614249785168" duration="15218000" />
+      <workItem from="1614331639291" duration="10937000" />
+      <workItem from="1614438151402" duration="10897000" />
+      <workItem from="1614686511671" duration="639000" />
+      <workItem from="1617352567345" duration="16656000" />
+      <workItem from="1617379866916" duration="1450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
